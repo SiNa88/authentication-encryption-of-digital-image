@@ -1,3 +1,4 @@
+````.m``` codes show the Matlab functions.
 
 1) The following paper provides more information related to the base of the algorithm:
   * Krovetz, T., & Rogaway, P. (2011). The software performance of authenticated-encryption modes. In Fast Software Encryption: 18th International Workshop, FSE 2011, Lyngby, Denmark, February 13-16, 2011, Revised Selected Papers 18 (pp. 306-327). Springer Berlin Heidelberg.
