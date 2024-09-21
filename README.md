@@ -11,7 +11,7 @@ Mehran, N. and Khayyambashi, M.R., 2017. Performance evaluation of authenticatio
 
 
 BibTex:
-```
+```BibTex
 @article{mehran2017performance,
   title={Performance evaluation of authentication-encryption and confidentiality block cipher modes of operation on digital image},
   author={Mehran, Narges and Khayyambashi, Mohammad Reza},
